@@ -1,10 +1,10 @@
 @echo off
-color 0a
+color 0b
 chcp 65001
 :home
 cls
-color 0a
-title Corbin's Multitool 
+color 0b
+title Rayanxxt6's Multitool 
 echo.
 echo ███╗   ███╗██╗   ██╗██╗  ████████╗██╗████████╗ ██████╗  ██████╗ ██╗     
 echo ████╗ ████║██║   ██║██║  ╚══██╔══╝██║╚══██╔══╝██╔═══██╗██╔═══██╗██║     
@@ -12,7 +12,8 @@ echo ██╔████╔██║██║   ██║██║     ██�
 echo ██║╚██╔╝██║██║   ██║██║     ██║   ██║   ██║   ██║   ██║██║   ██║██║     
 echo ██║ ╚═╝ ██║╚██████╔╝███████╗██║   ██║   ██║   ╚██████╔╝╚██████╔╝███████╗
 echo ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-echo A batch script coded by Corbin
+echo A batch script coded by corbin 
+echo and edited by rayanxxt6
 echo.
 echo ===========================================================================================================
 echo Hello %username%!
